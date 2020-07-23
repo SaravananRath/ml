@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387231371442",
+    "firebase_url": "https://kickstart-a55c7.firebaseio.com",
+    "project_id": "kickstart-a55c7",
+    "storage_bucket": "kickstart-a55c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387231371442:android:e13bde35ebebb14b8879ab",
+        "android_client_info": {
+          "package_name": "com.techassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387231371442-5pf78hmqie3suj1bscec11um6vdapi84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techassist",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "387231371442-5uisv8823udalj6vvuhis52tpl3908e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9u4KBT1craAzJtcCJve5a4a-Kc9doXcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387231371442-5uisv8823udalj6vvuhis52tpl3908e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
